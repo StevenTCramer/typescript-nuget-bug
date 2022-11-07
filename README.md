@@ -107,7 +107,7 @@ Set GeneratePackageOnBuild to false and ensure you do a `dotnet clean` prior to 
 
 ### References
 
-https://learn.microsoft.com/en-us/aspnet/core/razor-pages/ui-class?view=aspnetcore-6.0&tabs=visual-studio#typescript-integration  
-https://learn.microsoft.com/en-us/visualstudio/javascript/compile-typescript-code-nuget?view=vs-2022  
-https://apps.microsoft.com/store/detail/nuget-package-explorer/9WZDNCRDMDM3?hl=en-us&gl=us  
-https://github.com/dotnet/aspnetcore/issues/42110
+[Typescript integration](https://learn.microsoft.com/en-us/aspnet/core/razor-pages/ui-class?view=aspnetcore-6.0&tabs=visual-studio#typescript-integration)  
+[Add TypeScript support with NuGet](https://learn.microsoft.com/en-us/visualstudio/javascript/compile-typescript-code-nuget?view=vs-2022)  
+[NuGet Package Explorer](https://apps.microsoft.com/store/detail/nuget-package-explorer/9WZDNCRDMDM3?hl=en-us&gl=us)  
+[Razor Class Library isn't adding typescript output to static web assets](https://github.com/dotnet/aspnetcore/issues/42110)
