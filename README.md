@@ -110,3 +110,4 @@ Set GeneratePackageOnBuild to false and ensure you do a `dotnet clean` prior to 
 https://learn.microsoft.com/en-us/aspnet/core/razor-pages/ui-class?view=aspnetcore-6.0&tabs=visual-studio#typescript-integration  
 https://learn.microsoft.com/en-us/visualstudio/javascript/compile-typescript-code-nuget?view=vs-2022  
 https://apps.microsoft.com/store/detail/nuget-package-explorer/9WZDNCRDMDM3?hl=en-us&gl=us  
+https://github.com/dotnet/aspnetcore/issues/42110
